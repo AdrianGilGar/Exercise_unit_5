@@ -1,1 +1,2 @@
-Tris is the first file in this repository
+This is the first file in this repository
+And now and I modify it
