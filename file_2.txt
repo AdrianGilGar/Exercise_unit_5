@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This is the second file in this repository..
-=======
-This is the second file in this repository.
->>>>>>> 59660f3fd0b532f8f5ec55b3167ae75eb0825161
+This is the second file in this repository
+Now I modify it to upload it from commands
+
+
